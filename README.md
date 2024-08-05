@@ -42,7 +42,7 @@ Exercício 1
 </body> 
 </html>
 <br>
-
+<head></head>
 Exercício 2
 <br>
 
