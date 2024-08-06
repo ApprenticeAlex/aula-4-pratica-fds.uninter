@@ -1,19 +1,14 @@
-# aula-4-fds.uninter
-aula 4 exercícios Visual Studio Code site para FDS em html 
-<br>
-Exercício 1 
-<br> http://127.0.0.1:5500/formulario.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" contenhttp://127.0.0.1:5500/formulario.htmlt="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
 <body>
     <h1>Pedido Pizza</h1>
-   <form method="POST" action="teste.jsp">
+   <form method="GET" action="teste.jsp">
         Nome: <input type="text" name="nome"><br>
         email:<input type="email" name="email"><br>
         Tamanho:
@@ -41,12 +36,3 @@ Exercício 1
    </form>
 </body> 
 </html>
-<br>
-<head>
-    <body></body>
-</head>
-
-Exercício 2
-<br>
-
-
