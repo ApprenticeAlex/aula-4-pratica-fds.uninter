@@ -24,8 +24,8 @@
         </select>
         <br>
         Adicionais:
-        <input type = "checbox" name="borda" value="sim>borda
-        <input type = "checbox" name="queijo" value="sim>queijo
+        <input type = "checkbox" name="borda" value="sim>borda
+        <input type = "checkbox" name="queijo" value="sim>queijo
         <br>
         Data entrega:<input type="date" name"dataEntrega">
         <br>
