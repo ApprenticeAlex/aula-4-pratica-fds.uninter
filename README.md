@@ -1,8 +1,8 @@
-Aula 4 Exercicio 1 formulário cadastro (radio, select, checkbox, text, date, email, textarea, submit) atributos: "get" action="teste.jsp" (dados expostos)
+Aula 4 Exercicio 1 formulário cadastro (radio, select, checkbox, text, date, email, textarea, submit) atributos: "GET" action="teste.jsp" (dados expostos)
 Link: http://127.0.0.1:5500/exerc1get.html
 
-Aula 4 Exercicio 1 formulário cadastro (radio, select, checkbox, text, date, email, textarea, submit) atributos: "post" action="teste.jsp" (dados sigilosos)
-Link: http://127.0.0.1:5500/formulario.html
+Aula 4 Exercicio 1 formulário cadastro (radio, select, checkbox, text, date, email, textarea, submit) atributos: "POST" action="teste.jsp" (dados sigilosos)
+http://127.0.0.1:5500/exerc1post.html
 
 Aula 4 Exercicio 2 tabela fazer tabela 3 linhas onde a 1ª deve possuir 3 colunas; 2ª duas colunas; e 3ª apenas uma coluna. atributo colspan para inverter a ordem.
 Link: http://127.0.0.1:5500/formulario.html
