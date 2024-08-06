@@ -8,28 +8,29 @@
 </head>
 <body>
     <h1>Pedido Pizza</h1>
-   <form method="GET" action="teste.jsp">
+    <form method="get" action="teste.jsp">
         Nome: <input type="text" name="nome"><br>
         email:<input type="email" name="email"><br>
         Tamanho:
-        <input type="radio" name="tamanho" value="g" checked>Grande
-        <input type="radio" name="tamanho" value="m">Medio
-        <input type="radio" name="tamanho" value="p">Pequeno
+        <input type="radio" name="tamanho" value="G" checked>Grande
+        <input type="radio" name="tamanho" value="M">Medio
+        <input type="radio" name="tamanho" value="P">Pequeno
         <br>
-        Sabor: <select name = "sabor">
+        Sabores: <select name = "sabor">
             <option>Calabresa</option>
-            <option>Napolitana</option>
-            <option>Marguerita</option>
+            <option>Alitche</option>
+            <option>4 Queijos</option>
 
         </select>
         <br>
         Adicionais:
-        <input type = "checkbox" name="borda" value="sim">borda
-        <input type = "checkbox" name="queijo" value="sim">queijo
+        <input type = "checkbox" name="Borda" value="sim">Borda
+        <input type = "checkbox" name="Queijo Catupiry" value="sim">Queijo Catupiry
+        <input type = "checkbox" name="Rúculas" value="sim">Rúcula 
         <br>
         Data entrega:<input type="date" name="dataEntrega">
         <br>
-        Comnetário:<br>
+        Comentário:<br>
         <textarea name="mensagem" rows="10" cols="30"></textarea>
 <br>
         <input type="submit">
