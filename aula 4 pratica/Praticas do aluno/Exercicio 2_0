@@ -1,1 +1,26 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="1">
+        <caption>Economia Mensal Exerc 2_0</caption>
+        <tr>
+            <td colspan="30">2022</td>
+            <td colspan="15">2023</td>
+            <td colspan="15">2024</td>
+        </tr>
+        <tr>
+            <td colspan="40">Janeiro</td>
+            <td colspan="30">Dezembro</td>
+        </tr>
+        <tr>
+            <td colspan="70">Economia Mensal</td>
+    </tr>
+         
+   </table>
+</body>
+</html>
