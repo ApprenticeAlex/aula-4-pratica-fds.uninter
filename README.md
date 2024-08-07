@@ -11,7 +11,7 @@ Aula 4 Exercicio 2 tabela Modificar tabela 3 linhas onde a 1ª deve possuir 3 co
 Link: http://127.0.0.1:5500/exerc2atribcolspan.html
 
 Aula 4 Exercicio 3 Criar tabela 2 colunas ("Gatos" e "Cachorros") criar 3 linhas com fotos nas respectivas colunas, onde cada imagem seja um link
-Link: http://127.0.0.1:5500/formulario.html
+Link: http://127.0.0.1:5500/pratica1/exercicio3.html
 
 Aula 4 Exercicio 4 Fazer uma página utilizando imagem Mario, texto, bullets de marcação elinks para endereços, conforme modelo slide
 Link: http://127.0.0.1:5500/formulario.html
