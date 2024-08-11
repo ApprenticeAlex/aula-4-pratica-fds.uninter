@@ -2,25 +2,26 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
 <body>
-   <table border=1>
-      <tr>
-          <td colspan=30> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
-      </tr>
-      <tr>
-          <td colspan=15>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
-          <td colspan=15>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
-      </tr>
-      <tr>
-        <td colspan=10>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
-        <td colspan=10>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
-        <td colspan=10>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
-          
-      </tr>
+    <h1>Aula 4 Exercício 2 Desafio Criar tabela com 3 linhas
+        e em: l1 x 1 coluna; l2 x 2 colunas; e l3 x 3 colunas utlizar o atributo colspan e "& nbsp" 
+    </h1>
+   <table border="1">
+       <tr>
+          <td colspan="30"> &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp;Economia Mensal 2024</td>
+       </tr>
+       <tr>
+          <td colspan="15"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Janeiro</td>
+          <td colspan="15"> &nbsp; &nbsp; Dezembro</td>
+       </tr>
+       <tr>
+          <td colspan="10"> &nbsp; &nbsp; &nbsp; 2024 &nbsp; &nbsp;</td>
+          <td colspan="10"> &nbsp; &nbsp; &nbsp; 2023 &nbsp; &nbsp;</td>
+          <td colspan="10"> &nbsp; &nbsp; &nbsp; 2022 &nbsp; &nbsp;</td>
+
    </table>
 </body>
 </html>
