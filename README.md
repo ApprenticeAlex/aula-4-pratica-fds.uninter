@@ -13,5 +13,5 @@ Img links;
 Correção do ChatGPT arquivos pastas; 
 Correção ChatGPT links; 
 
-Aula 4 Exercicio 4 Fazer uma página utilizando imagem Mario, texto, bullets de marcação elinks para endereços, conforme modelo slide; 
+Aula 4 Exercicio 4 Fazer uma página utilizando imagem Mario, texto, bullets de marcação e links para endereços, conforme modelo slide; 
 
