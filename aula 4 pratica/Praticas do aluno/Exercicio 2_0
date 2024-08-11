@@ -6,6 +6,9 @@
     <title>Document</title>
 </head>
 <body>
+    <h1>Aula 4 Exercício 2_0 Criar tabela com 3 linhas
+        e em: l1 fazer 3 colunas; l2 x 2 colunas; e l3 x 1 coluna
+    </h1>
     <table border="1">
         <caption>Economia Mensal Exerc 2_0</caption>
         <tr>
@@ -23,4 +26,4 @@
          
    </table>
 </body>
-</html>
+</html
