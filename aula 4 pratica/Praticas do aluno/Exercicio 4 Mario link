@@ -8,14 +8,34 @@
     <title>Document</title>
 </head>
 <body>
+    
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+     <img src="Imagens/mario.JPG" heigth="40">
     <img src="https://abrir.link/kVxGa" heigth="40">
-    <h1>sobre</h1>
-    <p>O <b> Mario</b>Bros. é um jogo eletrônico de plataforma para arcades criado por Shigeru Miyamoto,
-        <br> desenvolvido pela Nintendo Research & Development 1 e publicado pela Nintendo em 1983.
+    <h1>Práticas do aluno ADS Uninter com arquivo e link</h1>
+    <h1>Sobre</h1>
+    <p>O <b> Mario</b> Bros. é um jogo eletrônico de plataforma para arcades criado por Shigeru Miyamoto,
+        <br> Desenvolvido pela Nintendo Research & Development e publicado pela Nintendo em 1983.
         <br> Foi colocado como um minijogo na série Super Mario Advance e em vários outros jogos da franquia Mario Bros.</p>
-    <h1> Jogos</h1>
 
-    <ul>
+    <p>O <b> Mario</b> é retratado como um encanador italiano baixinho rechonchudo e bigududo, vindo do Brooklyn que reside no Reino dos Cogumelos.<br>
+        Ele repetidamente tem a missão de resgatar a Princesa Peach, do vilão Bowser e impedir seus diversos planos de destruir e dominar o reino.<br>
+        Mário também tem outros inimigos ou rivais, incluindo Donkey Kong e Wario. <br>
+        <i>Desde 1995, Mário é dublado por Charles Martinet.</i>
+        
+    </p>
+
+    <h1> Principais Jogos</h1>
+
+    <ul style="list-style-type: circle;">
         <li>Nintendo
             <ul>
                 <li>Mario Bros</li>
@@ -28,8 +48,14 @@
                 <li>Mario Kart</li>
             </ul>
         </li>
+</ul>
+ 
+</body>
+
 
     </ul>
-    <a href="site1.html">Twiter</a>
+    <a href="https://abrir.link/zuJTO" target="_blank">Twitter | </a>
+    <a href="https://abrir.link/MxJhV" target="_blank">Email</a> | 
+    <a href="https://abrir.link/nOTjm" target="_blank">Facebook</a>
 </body>
 </html
